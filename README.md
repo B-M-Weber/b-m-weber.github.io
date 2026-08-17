@@ -1,2 +1,1 @@
-# github.io
-Bernhard Weber - Professional Website
+# webe_be.github.io
